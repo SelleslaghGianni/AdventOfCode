@@ -1,4 +1,3 @@
 # Advent of Code
-My private git-repo of my solutions to the Advent of Code stuff.  
-First solution: 1014171 (1.py)  
-Second solution: 46584630 (2.py)  
+All of my solutions are in here. They're written in python, some are of terrible quality.  
+I have sometimes taken inspiration from some users their solutions when writing my own.
